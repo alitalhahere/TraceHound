@@ -40,7 +40,7 @@ Then select a module from the menu, enter the target, and view results.
 $ python tracehound.py
 
 ╔══════════════════════════════════════════════════╗
-║              🕵️ TRACEHOUND v1.0 🕵️              ║
+║              🕵️ TRACEHOUND v1.0 🕵️               ║
 ╚══════════════════════════════════════════════════╝
 
 📌 SELECT A MODULE:
